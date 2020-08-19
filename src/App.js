@@ -9,7 +9,7 @@ import useStyles from './styles'
 
 
 
-const alankey = '0af134f3477864541a6ffc37a3bfdabc2e956eca572e1d8b807a3e2338fdd0dc/stage'
+const alankey = 'API KEY'
 
 const App = () => {
 
